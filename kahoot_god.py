@@ -11,7 +11,7 @@ from PIL import Image
 
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files (x86)\Tesseract-OCR\tesseract.exe"
 
-OPENROUTER_KEY = "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"  # <-- Replace with yours
+OPENROUTER_KEY = " " # <-- Replace with yours
 
 DEBUG = True
 
