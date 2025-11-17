@@ -1,4 +1,4 @@
-# Kahoot God (Kahoot Answer Bot)
+# Kahoot Al Gaib (Kahoot Answer Bot)
 
 This is a script that automatically screenshots a Kahoot game's questions and options, processes them, and then consults with a Local LLM or an Open AI API to get the most likely answer. forked from [Kahoot god video](https://www.youtube.com/watch?v=G0i_xx-6G-4&ab_channel=TheCodingSloth)
 
@@ -34,4 +34,5 @@ This bot is made for use on a 1440p screen. It will not work on any other resolu
 ## Contributions
 
 Contributions are welcome! Please make sure to test your changes thoroughly before submitting a pull request.
+
 
